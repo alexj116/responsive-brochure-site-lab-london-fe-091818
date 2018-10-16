@@ -43,7 +43,7 @@ main {
 }
 .item img {
   width:18%;
-  display: inline-block
+  display: inline-block;
 }
 
 #map {
