@@ -2,6 +2,10 @@ body {
   background: #E5D4CE;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 header img {
     border: solid;
 }
