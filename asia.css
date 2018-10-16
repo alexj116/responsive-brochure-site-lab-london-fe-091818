@@ -57,13 +57,12 @@ main {
   #one {
     width: 100px;
     float: left;
-    
     background-color: blue;
 }
 #two {
     width: 200px;
     float: left;
-      background-color: green;
+    background-color: green;
 }
 footer {
     clear: both;
