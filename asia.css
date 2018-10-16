@@ -58,9 +58,6 @@ main {
   float:left;
   }
 
-p .map {
-  flex-direction:row;
-}
 
 footer {
   background-color: White;
