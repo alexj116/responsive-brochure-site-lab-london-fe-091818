@@ -103,3 +103,6 @@ footer {
   border:solid;
   border-color: darkgrey;
 }
+footer p {
+  background-color: #344759;
+}
