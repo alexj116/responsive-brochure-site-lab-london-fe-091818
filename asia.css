@@ -49,13 +49,7 @@ main {
 }
 
 .map {
-  flex-direction: row;
-  background-color: white;
-  padding: 10px;
-  border:solid;
-  border-color: darkgrey;
-  display: inline;
-  float:left;
+ 
   }
 
 
