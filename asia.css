@@ -54,7 +54,21 @@ main {
     margin: auto;
   }
   
-  
+  #one {
+    width: 100px;
+    float: left;
+    height: 300px;
+        background-color: blue;
+}
+#two {
+    width: 200px;
+    float: left;
+    height: 300px;
+    background-color: green;
+}
+#clear {
+    clear: both;
+}
 
 
 footer {
