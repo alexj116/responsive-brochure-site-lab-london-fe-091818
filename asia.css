@@ -48,21 +48,20 @@ main {
   justify-content: space-around; 
 }
 
-.map {
-  width: 300px;
-  background-color: #ffcc33;
-  margin: auto;
+#wrap {
+  width:485px;
 }
-  
- #one {
-    width: auto;
-    float: left;
-    background-color: blue;
+
+.left {
+  width:240px;
+  background-color:red;
+  height:123px;
 }
-#two {
-    width: 200px;
-    float: left;
-    background-color: green;
+
+.right {
+    width:240px;
+  background-color:red;
+  height:123px;
 }
 footer {
     clear: both;
