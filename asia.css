@@ -72,6 +72,8 @@ main {
   float:right;
   margin:10px;
   padding:10px;
+  border:solid;
+  border-color: darkgrey;
 }
 footer {
     clear: both;
