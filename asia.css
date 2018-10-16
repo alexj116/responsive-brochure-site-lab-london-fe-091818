@@ -54,7 +54,7 @@ main {
   padding: 10px;
   border:solid;
   border-color: darkgrey;
-  display: inline;
+  display: inline-block;
   }
 
 p .map {
