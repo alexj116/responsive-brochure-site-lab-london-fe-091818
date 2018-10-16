@@ -56,9 +56,6 @@ background-color: white;
   border-color: darkgrey;
   width:auto;
 }
-.map {
-  float:left;
-}
 
 p .map {
   float:right;
