@@ -61,9 +61,9 @@ main {
 
 
 .right {
-    width:340px;
+  width:340px;
   background-color:red;
-  height:123px;
+  height:auto;
   float:right;
 }
 footer {
