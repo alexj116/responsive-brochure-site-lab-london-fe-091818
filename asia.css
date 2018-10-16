@@ -58,6 +58,7 @@ main {
 }
 
 p .map {
+  flex-direction:row;
 }
 
 footer {
