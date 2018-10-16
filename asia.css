@@ -46,6 +46,7 @@ main {
   display: inline-block;
   float:right;
   margin:4px;
+  space-around:even;
 }
 
 #map {
