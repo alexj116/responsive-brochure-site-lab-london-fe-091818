@@ -58,7 +58,6 @@ main {
   padding: 10px;
   border:solid;
   border-color: darkgrey;
-  width:25%;
   display: inline-block;
   flex-direction: row;
 }
