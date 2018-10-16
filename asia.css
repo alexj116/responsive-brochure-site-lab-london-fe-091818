@@ -77,6 +77,10 @@ main {
   border:solid;
   border-color: darkgrey;
 }
+
+p.right {
+  font-size: 1em;
+}
 footer {
     clear: both;
 }
