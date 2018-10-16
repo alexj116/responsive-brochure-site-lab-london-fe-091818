@@ -49,6 +49,14 @@ main {
 }
 
 .map {
+  
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap:wrap;
+}
+  
   background-color: white;
   padding: 10px;
   border:solid;
