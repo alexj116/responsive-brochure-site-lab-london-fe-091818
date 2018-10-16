@@ -56,8 +56,7 @@ background-color: white;
   border-color: darkgrey;
   width:auto;
 }
-
-iframe #map {
+.map {
   float:left;
 }
 
