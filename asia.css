@@ -58,7 +58,7 @@ main {
   background-color:white;
   margin:10px;
   padding:10px;
-  height:123px;
+  height:auto;
   float:left;
 }
 
