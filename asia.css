@@ -8,8 +8,6 @@ body {
 
 header img {
     border: solid;
-    width:100%;
-    justify-content: center;
 }
 
 h3 {
@@ -44,14 +42,12 @@ main {
   width:98%;
   margin:3px;
   background-color: white;
-  display:flex;
 }
 .item img {
   width:24%;
   float:right;
-  margin:0 5px;
-  justify-content: space-around;
-  
+  margin:4px;
+  justify-content: space-around; 
 }
 
 #wrap {
