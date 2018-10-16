@@ -49,10 +49,9 @@ main {
 }
 
 .map {
- width: 300px;
- background-color: white;
- margin: auto;
-  }
+  width: 300px;
+    background-color: #ffcc33;
+    margin: auto;
   
 #one {
     width: 100px;
