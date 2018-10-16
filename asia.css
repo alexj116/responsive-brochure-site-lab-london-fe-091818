@@ -70,8 +70,8 @@ main {
   background-color: white;
   height:auto;
   float:right;
-  margin:10px;
-  padding:5px;
+  margin:5px;
+  padding:10px;
   border:solid;
   border-color: darkgrey;
 }
