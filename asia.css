@@ -54,11 +54,11 @@ main {
     margin: auto;
   }
   
-  #one {
+#one {
     width: 100px;
     float: left;
     height: 300px;
-        background-color: blue;
+    background-color: blue;
 }
 #two {
     width: 200px;
