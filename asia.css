@@ -49,7 +49,7 @@ main {
   justify-content: space-around; 
 }
 
-#map {
+.map {
 background-color: white;
   padding: 10px;
   border:solid;
