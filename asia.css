@@ -45,7 +45,7 @@ main {
   width:24%;
   display: inline-block;
   float:right;
-  margin:4,3,10,4;
+  margin:4px
   justify-content: space-around; 
 }
 
