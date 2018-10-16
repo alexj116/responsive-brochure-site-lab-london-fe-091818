@@ -55,6 +55,7 @@ main {
   border:solid;
   border-color: darkgrey;
   display: inline-block;
+  float:left;
   }
 
 p .map {
