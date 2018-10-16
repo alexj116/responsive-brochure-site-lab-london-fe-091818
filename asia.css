@@ -46,7 +46,7 @@ main {
 .item img {
   width:24%;
   float:right;
-  margin:2px;
+  margin:5px;
   justify-content: space-around; 
 }
 
