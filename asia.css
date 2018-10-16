@@ -45,13 +45,7 @@ main {
   width:18%;
 }
 
-.gallery {
-   margin: 10px;
-   width:18%;
-   display: inline-block;
-   flex-wrap: wrap;
-   justify-content: center;
-}
+
 
 
 
