@@ -60,7 +60,7 @@ main {
   background-color:white;
   margin:5px;
   padding:10px;
-  height:auto;
+  height:344px;
   float:left;
   border:solid;
   border-color: darkgrey;
@@ -70,14 +70,14 @@ main {
 .right {
   width: 582px;
   background-color: white;
-  height:auto;
+  height:344px;
   float:right;
   margin:5px;
   padding:10px;
   border:solid;
   border-color: darkgrey;
   font-style:italic;
-  font-size:13px;
+  font-size:14px;
 }
 
 footer {
