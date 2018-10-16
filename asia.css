@@ -46,15 +46,11 @@ div.gallery {
     display: inline-block;
 }
 
-div.gallery:hover {
-    border: 1px solid #777;
-}
 
 div.gallery img {
     width: 100%;
     height: auto;
     display: inline-block;
-    justify-content: center;
 }
 
 #map {
