@@ -76,6 +76,7 @@ main {
   padding:10px;
   border:solid;
   border-color: darkgrey;
+  font-style:italic;
 }
 
 footer {
