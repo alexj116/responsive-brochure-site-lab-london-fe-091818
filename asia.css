@@ -11,6 +11,10 @@ header img {
     justify-content: center;
 }
 
+br {
+  background-color: #F6EDD2
+}
+
 h3 {
   margin:2px,0,3,0;
   font-family:verdana;
