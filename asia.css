@@ -56,12 +56,15 @@ main {
   width:240px;
   background-color:red;
   height:123px;
+  float:left;
 }
+
 
 .right {
     width:240px;
   background-color:red;
   height:123px;
+  float:right;
 }
 footer {
     clear: both;
