@@ -44,10 +44,10 @@ main {
 }
 
 .gallery {
-    margin: 10px;
-    width:18%;
+   margin: 10px;
+   width:18%;
    display: inline-block;
-   flex-wrap:wrap;
+   flex-wrap: wrap;
    justify-content: center;
 }
 
