@@ -9,6 +9,7 @@ body {
 header img {
     border: solid;
     width:62%;
+    justify-content: center;
 }
 
 h3 {
