@@ -50,18 +50,20 @@ main {
 
 #wrap {
   width:auto;
+  
 }
 
 .left {
   width:auto;
-  background-color:red;
+  background-color:white;
+  margin:10px;
   height:123px;
   float:left;
 }
 
 
 .right {
-  width:500px;
+  width:450px;
   background-color:red;
   height:auto;
   float:right;
