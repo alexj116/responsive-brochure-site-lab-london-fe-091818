@@ -61,7 +61,7 @@ main {
 
 
 .right {
-  width:340px;
+  width:auto;
   background-color:red;
   height:auto;
   float:right;
