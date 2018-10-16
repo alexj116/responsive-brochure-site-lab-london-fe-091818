@@ -8,6 +8,7 @@ body {
 
 header img {
     border: solid;
+    justify-content: center;
 }
 
 h3 {
