@@ -44,7 +44,8 @@ main {
 }
 .item img {
   width:24%;
-  float:right;
+  display: inline-block;
+ 
   margin:4px;
   justify-content: space-around; 
 }
