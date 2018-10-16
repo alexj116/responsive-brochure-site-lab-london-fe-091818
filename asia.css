@@ -43,10 +43,10 @@ main {
   background-color: white;
 }
 
-div.gallery {
+.gallery {
     margin: 10px;
     width:18%;
-    display: inline-block
+   display: inline-block;
    flex-wrap:wrap;
    justify-content: center;
 }
