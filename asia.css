@@ -41,6 +41,9 @@ main {
   margin:5px;
   background-color: white;
 }
+.item img {
+  width:18%;
+}
 
 .gallery {
    margin: 10px;
