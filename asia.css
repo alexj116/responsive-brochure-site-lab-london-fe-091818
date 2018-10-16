@@ -15,20 +15,7 @@ p {
   margin:1px;
 }
 
-#map {
-background-color: white;
-  padding: 10px;
-  border:solid;
-  border-color: darkgrey;
-}
 
-iframe #map {
-  float:left;
-}
-
-p #map {
-  float:right;
-}
 
 main {
   background: white;
