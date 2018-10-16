@@ -54,7 +54,7 @@ background-color: white;
   border:solid;
   border-color: darkgrey;
   width:auto;
-  flex-wrap: nowrap;
+  flex-direction: row;
 }
 
 p .map {
