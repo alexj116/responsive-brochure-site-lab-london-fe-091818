@@ -42,7 +42,7 @@ div.gallery {
     margin: 10px;
     width:18%;
     display: inline-block;
-    
+    float:none;
     box-sizing: border-box;
 }
 
