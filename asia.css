@@ -49,7 +49,9 @@ main {
 }
 
 .map {
- 
+ width: 300px;
+    background-color: white;
+    margin: auto;
   }
 
 
