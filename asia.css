@@ -49,7 +49,7 @@ main {
 }
 
 .map {
-background-color: white;
+  background-color: white;
   padding: 10px;
   border:solid;
   border-color: darkgrey;
