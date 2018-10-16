@@ -58,7 +58,7 @@ main {
   padding: 10px;
   border:solid;
   border-color: darkgrey;
-  display: inline-block;
+  display: inline;
   flex-direction: row;
 }
 
