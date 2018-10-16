@@ -54,6 +54,7 @@ div.gallery img {
     width: 100%;
     height: auto;
     display: inline-block;
+    justify-content: center;
 }
 
 #map {
