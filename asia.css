@@ -86,7 +86,7 @@ footer {
 
 footer {
   background-color: White;
-  width:100%;
+  width:auto;
   margin:15px;
   border:solid;
   border-color: darkgrey;
