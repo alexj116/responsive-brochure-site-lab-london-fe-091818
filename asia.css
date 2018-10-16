@@ -52,8 +52,9 @@ main {
   width: 300px;
   background-color: #ffcc33;
   margin: auto;
+}
   
-#one {
+  #one {
     width: 100px;
     float: left;
     height: 300px;
