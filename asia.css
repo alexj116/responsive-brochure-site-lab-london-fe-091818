@@ -49,7 +49,8 @@ main {
   width:24%;
   float:right;
   margin:4px;
-  justify-content: space-around; 
+  justify-content: space-around;
+  display: flex;
 }
 
 #wrap {
