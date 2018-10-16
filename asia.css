@@ -63,8 +63,7 @@ main {
 #two {
     width: 200px;
     float: left;
-    height: 300px;
-    background-color: green;
+      background-color: green;
 }
 footer {
     clear: both;
