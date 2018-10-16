@@ -78,7 +78,7 @@ main {
   border-color: darkgrey;
 }
 
-p.right {
+p .right {
   font-size: 1em;
 }
 footer {
